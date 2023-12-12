@@ -1,4 +1,6 @@
 # serverless-web-application-built-using-AWS
+
+dataset: https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
 Description:
 
 Embark on a journey to create a powerful and scalable serverless application on AWS using cutting-edge technologies. This project leverages AWS Amplify, API Gateway, Lambda functions, and DynamoDB to build a robust and flexible serverless architecture.
@@ -34,7 +36,8 @@ This hands-on project is a gateway to mastering serverless architecture on AWS. 
 #AWSAmplify #ServerlessArchitecture #LambdaFunctions #DynamoDB #APIGateway #AWSProjects #CloudDevelopment #AmplifyMagic #ServerlessJourney #TechInnovation
 
 
-![Architecture](C:\Users\Samue\Downloads\power_of_math_aws\architecture.png)
+
+
 
 
 
